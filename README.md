@@ -1,2 +1,2 @@
-# clientrecon
-Simple, powerful, slightly creepy client intelligence
+# affiliatetesting
+Simple, powerful, and slightly creepy
